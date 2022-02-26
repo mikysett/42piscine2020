@@ -1,0 +1,7 @@
+**/.vscode/
+**/.DS_Store
+**/*test*/
+**/*test*
+**/a.out
+**/obj/*
+**/target/
