@@ -2,6 +2,7 @@
 **/.DS_Store
 **/*test*/
 **/*test*
+**/*.o
 **/a.out
 **/obj/*
 **/target/
